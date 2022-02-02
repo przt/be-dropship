@@ -1,0 +1,7 @@
+app/__pycache__
+.vscode
+app/api/__pycache__/*
+app/schema/__pycache__/
+*.pyc
+*.pyo
+app/orm/__pycache__/db_setup.cpython-36.pyc
